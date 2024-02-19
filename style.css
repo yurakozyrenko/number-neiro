@@ -1,0 +1,16 @@
+body {
+    margin: 10vh;
+}
+canvas {
+    position: relative;
+    margin: 8vh;
+    scale: 5;
+}
+progress {
+    width: 100%;
+    display: none;
+}
+p {
+    font-size: 20vh;
+    margin: 0;
+}
